@@ -1,0 +1,12 @@
+# DVC cache
+.dvc/cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# Models
+model.pkl
+
+# Jupyter
+.ipynb_checkpoints/
